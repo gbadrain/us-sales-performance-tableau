@@ -107,10 +107,11 @@ Sales-Performance-Dashboard/
 ├── tableau/
 │   └── Sales Dashboard.twbx     # Packaged Tableau workbook
 ├── documentation/
-│   └── README.md               # Project documentation
+│   └── README.md                # Project documentation
 └── validation/
-    ├── sql_queries/            # Data validation scripts
-    └── python_scripts/         # QA and analysis scripts
+├── sql_queries/                 # Data validation scripts
+└── python_scripts/              # QA and analysis scripts
+└──  Worksheet Screen shots     # Collection of screenshots of Tableau Sheets
 ```
 
 ## Business Impact
