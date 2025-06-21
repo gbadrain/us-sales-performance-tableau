@@ -59,7 +59,7 @@ To provide actionable insights into sales performance by creating a dynamic, use
 ## Tableau Worksheet Screenshots
 
 To view the visualizations created in Tableau for this project, please refer to the screenshots available at the following link:
-[View Tableau Worksheets](https://github.com/gbadrain/us-sales-performance-tableau/tree/main/Worsksheet%20Screen%20shots)
+[View Tableau Worksheets](https://github.com/gbadrain/us-sales-performance-tableau/blob/main/Sales%20Dashboard.pdf)
 
 These screenshots showcase the key dashboards and visual analyses designed in Tableau to explore U.S. sales performance across categories, regions, and time periods. They highlight KPIs, trend lines, and interactive filters that were part of the original workbook.
 
