@@ -151,6 +151,7 @@ Sales-Performance-Dashboard/
 - **LinkedIn**: [gurpreet-badrain](http://linkedin.com/in/gurpreet-badrain-b258a0219)
 - **Email**: gbadrain@gmail.com
 - **Streamlit**: [gbadrain-Machine Learnning](https://gbadrain-machine-learning.streamlit.app)
+- **Tableau**: [https://public.tableau.com/app/profile/gurpreet.badrain/vizzes]
 
 ## **Support gratitude**  
 **Copilot AI** provided valuable assistance.  
