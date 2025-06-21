@@ -55,7 +55,7 @@ To provide actionable insights into sales performance by creating a dynamic, use
 ## Dashboard Architecture
 
 ### Core Worksheets:
-
+Use the link to see the screenshots of the sheets in Tableau
 #### Performance KPIs:
 - **Sales KPI**: Current vs. previous year sales comparison
 - **Profit KPI**: Profitability analysis with return adjustments
