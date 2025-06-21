@@ -119,7 +119,7 @@ Sales-Performance-Dashboard/
 └── validation/
 ├── sql_queries/                 # Data validation scripts
 └── python_scripts/              # QA and analysis scripts
-└── Worksheet Screen shots     # Collection of screenshots of Tableau Sheets
+└── Sales Dashboard.pdf          # Collection of screenshots of Tableau Sheets
 ```
 
 ## Business Impact
