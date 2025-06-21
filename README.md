@@ -163,7 +163,6 @@ Sales-Performance-Dashboard/
 - **Tableau**: [gurpreet.badrain](https://public.tableau.com/app/profile/gurpreet.badrain/vizzes)
 
 ## **Support gratitude**  
-**Copilot AI** provided valuable assistance.  
 Subscriber Youtube : **datatutorials1**
 
 
