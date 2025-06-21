@@ -141,6 +141,26 @@ Sales-Performance-Dashboard/
 - **Mobile Optimization**: Enhanced mobile dashboard experience
 - **Advanced Segmentation**: Customer lifetime value and cohort analysis
 
+## Contact & Support
+
+**Gurpreet Singh Badrain**  
+*Market Research Analyst & Aspiring Data Analyst*
+
+- **My portfolio**: [Data Guru](https://datascienceportfol.io/gbadrain)
+- **GitHub**: [gbadrain](https://github.com/gbadrain)
+- **LinkedIn**: [gurpreet-badrain](http://linkedin.com/in/gurpreet-badrain-b258a0219)
+- **Email**: gbadrain@gmail.com
+- **Streamlit**: [gbadrain-Machine Learnning](https://gbadrain-machine-learning.streamlit.app)
+
+## **Support gratitude**  
+**Copilot AI** provided valuable assistance.  
+Subscriber : **datatutorials1** https://www.youtube.com/@datatutorials1
+
+
+## Show Your Support
+
+If you found this project helpful, please consider giving it a star on GitHub!
+
 ---
 
 *This project demonstrates advanced data visualization skills, business intelligence acumen, and the ability to transform raw data into actionable insights for enterprise decision-making.*
