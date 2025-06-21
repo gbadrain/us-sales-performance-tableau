@@ -151,11 +151,11 @@ Sales-Performance-Dashboard/
 - **LinkedIn**: [gurpreet-badrain](http://linkedin.com/in/gurpreet-badrain-b258a0219)
 - **Email**: gbadrain@gmail.com
 - **Streamlit**: [gbadrain-Machine Learnning](https://gbadrain-machine-learning.streamlit.app)
-- **Tableau**: [https://public.tableau.com/app/profile/gurpreet.badrain/vizzes]
+- **Tableau**: [gurpreet.badrain](https://public.tableau.com/app/profile/gurpreet.badrain/vizzes)
 
 ## **Support gratitude**  
 **Copilot AI** provided valuable assistance.  
-Subscriber : **datatutorials1** https://www.youtube.com/@datatutorials1
+Subscriber Youtube : **datatutorials1**
 
 
 ## Show Your Support
