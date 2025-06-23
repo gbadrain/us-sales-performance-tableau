@@ -112,7 +112,7 @@ These screenshots showcase the key dashboards and visual analyses designed in Ta
 Sales-Performance-Dashboard/
 ├── data/
 │   └── Sales Data.xls           # Raw source dataset
-|   └── Hexmaps.xls              # Row/Column details for US Map dots 
+|   └── Hexmap.xls               # Row/Column details for US Map dots 
 ├── tableau/
 │   └── Sales Dashboard.twbx     # Packaged Tableau workbook
 ├── documentation/
